@@ -106,11 +106,7 @@ Desafio de arquitetura de sistemas demonstrando na prática a diferença entre c
 ### Estatísticas
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlMedeiros&layout=compact&bg_color=00000000&title_color=ffffff&text_color=cccccc&hide_border=true&langs_count=6">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlMedeiros&layout=compact&bg_color=00000000&title_color=111111&text_color=333333&hide_border=true&langs_count=6">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlMedeiros&layout=compact&bg_color=00000000&title_color=ffffff&text_color=cccccc&hide_border=true&langs_count=6">
-</picture>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlMedeiros&layout=compact&bg_color=212830&title_color=ffffff&text_color=cccccc&hide_border=true&langs_count=6" />
 </div>
 
 ---
