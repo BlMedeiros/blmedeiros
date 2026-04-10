@@ -114,18 +114,13 @@ Desafio de arquitetura de sistemas demonstrando na prática a diferença entre c
 ### Contato
 
 <div align="center">
-  <a href="mailto:brunoluismedeiros.08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-212121?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-  </a>
-  <a href="https://www.linkedin.com/in/bruno-lu%C3%ADs-medeiros-9b10862b6/">
-   <img src="https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
+  <a href="mailto:brunoluismedeiros.08@gmail.com"><img src="https://img.shields.io/badge/Gmail-212121?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/bruno-lu%C3%ADs-medeiros-9b10862b6/"><img src="https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </div>
 
 ---
 
 <div align="center">
 
-Sinta-se à vontade para explorar os repositórios. Se algum projeto for útil, considere deixar uma estrela.
+### Sinta-se à vontade para explorar os repositórios. Se algum projeto for útil, considere deixar uma estrela.
 
 </div>
