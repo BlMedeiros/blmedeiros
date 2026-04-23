@@ -91,11 +91,11 @@ Sistema distribuído de cronometragem de alta precisão para corridas com sensor
 </td>
 <td width="50%" valign="top">
 
-**[System Architecture Challenge](https://github.com/PabloTzeliks/system-architecture-challenge)**
+**[Imóvel API](https://github.com/BlMedeiros/imobiliaria)**
 
-Desafio de arquitetura de sistemas demonstrando na prática a diferença entre código sem estrutura e um sistema bem arquitetado, explorando os impactos reais de decisões arquiteturais.
+API de gerenciamento imobiliário com filtragem dinâmica e consultas geoespaciais, construída com Spring Boot, GraphQL e Clean Architecture.
 
-`Java` `Clean Architecture` `SOLID`
+`Java 21` `Spring Boot 4` `GraphQL` `PostgreSQL/PostGIS` `QueryDSL`
 
 </td>
 </tr>
